@@ -6,7 +6,7 @@
 
   - [hackerdrinks](https://hackerdrinks.sg)
     - [Telegram Chat](https://t.me/joinchat/AVXlHwt652Fr14mSHQGlBg)
-  - DevOpsSg
+  - DevOpsSG
     - [Telegram Chat](https://t.me/joinchat/AVXlHwt652Fr14mSHQGlBg)
   - CryptoSG
     - [Telegram Chat](https://t.me/cryptoSG_Dapps)
@@ -20,7 +20,7 @@
 
 ### Broadcast Channels
 
-  - Tech/Startup jobs SG (by Tech in Asia
+  - Tech/Startup jobs SG (by Tech in Asia)
     - [Telegram Channel](https://t.me/tiajobssg)
 
 
