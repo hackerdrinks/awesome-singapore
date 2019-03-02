@@ -26,6 +26,8 @@ _Note: It might seem a little Telegram-focused for now, but that's just what we 
 
   - Tech/Startup jobs SG (by Tech in Asia)
     - [Telegram Channel](https://t.me/tiajobssg)
+  - DevSG_Echo
+    - [Telegram Channel](https://t.me/DevSG_Echo)
 
 
 ## General
