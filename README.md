@@ -1,5 +1,8 @@
 # Links to awesome groups in Singapore
 
+This is our attempt to collate the various fanstastic user groups and communities based here in Singapore.
+
+
 ## Tech
 
 ### Chats and Communities
