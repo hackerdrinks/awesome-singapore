@@ -30,11 +30,26 @@ _Note: It might seem a little Telegram-focused for now, but that's just what we 
     - [Telegram Channel](https://t.me/DevSG_Echo)
 
 
+## Food
+
+### Broadcast
+
+  - SG Kiasu Foodies [Discounts/Promos]
+    - [Telegram Channel](https://t.me/kiasufoodies)
+  - GoodLobang
+    - [Telegram Channel](https://t.me/goodlobang)
+  - Eatbook
+    - [Telegram Channel](https://t.me/eatbooksg)
+
 ## General
 
 ### Broadcast
 
   - Land Transport Guru: SG Bus & Train Alerts
     - [Telegram Channel](https://t.me/LandTransportGuru)
-  - SG Kiasu Foodies [Discounts/Promos]
-    - [Telegram Channel](https://t.me/kiasufoodies)
+  - TheSmartLocal
+    - [Telegram Channel](https://t.me/TSLMedia)
+  - Singapore Internship Opportunities
+    - [Telegram Channel](https://t.me/sginternships)
+  - Part Time Jobs (Singapore)
+    - [Telegram Channel](https://t.me/singaporeparttimejobs)
