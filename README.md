@@ -27,6 +27,11 @@ _Note: It might seem a little Telegram-focused for now, but that's just what we 
   - [Telegram Channel](https://t.me/tiajobssg)
 - DevSG_Echo
   - [Telegram Channel](https://t.me/DevSG_Echo)
+  
+## Open Source Projects
+
+- NUS Mods 
+  - [GitHub Repo] (https://github.com/nusmodifications/nusmods) 
 
 ## Food
 
