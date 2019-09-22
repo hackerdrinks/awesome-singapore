@@ -1,4 +1,4 @@
-# Links to awesome groups in Singapore
+# Links to Awesome Tech Things in Singapore 🇸🇬
 
 This is our attempt to collate the various fanstastic user groups and communities based here in Singapore.
 
@@ -30,8 +30,13 @@ _Note: It might seem a little Telegram-focused for now, but that's just what we 
   
 ### Open Source Projects 
 
-- NUS Mods
+- NUSMods
   - [GitHub Repo](https://github.com/nusmodifications/nusmods)
+
+### Upcoming Hackathons
+
+- NTU inTuition
+  - [Website](https://intuition.ieeentu.com/)
 
 ## Food
 
