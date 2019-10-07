@@ -35,7 +35,7 @@ _Note: It might seem a little Telegram-focused for now, but that's just what we 
 
 ### Upcoming Hackathons
 
-- NTU inTuition
+- iNTUition
   - [Website](https://intuition.ieeentu.com/)
 
 ## Food
