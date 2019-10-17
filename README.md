@@ -32,6 +32,8 @@ _Note: It might seem a little Telegram-focused for now, but that's just what we 
 
 - NUSMods
   - [GitHub Repo](https://github.com/nusmodifications/nusmods)
+- NUS Class Bot
+  - [GitHub Repo](https://github.com/NUS-Class-Bot/student01S)
 
 ### Upcoming Hackathons
 
