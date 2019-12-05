@@ -55,6 +55,8 @@ _Note: It might seem a little Telegram-focused for now, but that's just what we 
 
 ### Broadcast Channels
 
+- Early-Career Jobs SG
+  - [Telegram Channel](https://t.me/werkwerksg)
 - Land Transport Guru: SG Bus & Train Alerts
   - [Telegram Channel](https://t.me/LandTransportGuru)
 - TheSmartLocal
