@@ -4,6 +4,14 @@ This is our attempt to collate the various fanstastic user groups and communitie
 
 _Note: It might seem a little Telegram-focused for now, but that's just what we had handy! Feel free to send PRs to update/edit/add to these links!_
 
+## All Singapore Deals
+- SG Dive Deals
+  - [Telegram Chat](https://t.me/sgdivedeals)
+
+## Finance
+- Market Muffins
+  - [Telegram Chat](https://t.me/marketmuffins)
+
 ## Tech
 
 ### Chats and Communities
