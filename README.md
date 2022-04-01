@@ -11,7 +11,7 @@ _Note: It might seem a little Telegram-focused for now, but that's just what we 
 - [hackerdrinks](https://hackerdrinks.sg)
   - [Telegram Chat](https://t.me/joinchat/AVXlHwt652Fr14mSHQGlBg)
 - DevOpsSG
-  - [Telegram Chat](https://t.me/joinchat/AVXlHwt652Fr14mSHQGlBg)
+  - [Telegram Chat](https://t.me/DevOpsSG)
 - CryptoSG
   - [Telegram Chat](https://t.me/cryptoSG_Dapps)
 - DevSG
@@ -19,7 +19,7 @@ _Note: It might seem a little Telegram-focused for now, but that's just what we 
 - DevSG_Jobs
   - [Telegram Chat](https://t.me/joinchat/BGedIEfG39eNgvQmiki60Q)
 - DevSG_Random
-  - [Telegram Chat](https://t.me/joinchat/BGedIFPZvMoshemkOoXM4g)
+  - [Telegram Chat](https://t.me/joinchat/BGedIFPZvMqqVyJzG5q3gQ)
 - JS Academy
   - [Telegram Chat](https://t.me/joinchat/Ksbz2BNGhTKzt1i0K4IEyw)
 
