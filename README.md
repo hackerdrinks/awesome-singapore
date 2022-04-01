@@ -14,6 +14,8 @@ _Note: It might seem a little Telegram-focused for now, but that's just what we 
   - [Telegram Chat](https://t.me/DevOpsSG)
 - CryptoSG
   - [Telegram Chat](https://t.me/cryptoSG_Dapps)
+- HackerspaceSG
+  - [Telegram Chat](https://t.me/HackerspaceSG)
 - DevSG
   - [Telegram Chat](https://t.me/joinchat/AMjNsFh9UGIR5VvOs1_nXA)
 - DevSG_Jobs
