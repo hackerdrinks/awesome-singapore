@@ -20,6 +20,8 @@ _Note: It might seem a little Telegram-focused for now, but that's just what we 
   - [Telegram Chat](https://t.me/joinchat/BGedIEfG39eNgvQmiki60Q)
 - DevSG_Random
   - [Telegram Chat](https://t.me/joinchat/BGedIFPZvMqqVyJzG5q3gQ)
+- JS Academy
+  - [Telegram Chat](https://t.me/joinchat/Ksbz2BNGhTKzt1i0K4IEyw)
 
 ### Broadcast Channels
 
