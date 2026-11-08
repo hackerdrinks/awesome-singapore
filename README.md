@@ -38,6 +38,8 @@ _Note: It might seem a little Telegram-focused for now, but that's just what we 
   - [GitHub Repo](https://github.com/nusmodifications/nusmods)
 - NUS Class Bot
   - [GitHub Repo](https://github.com/NUS-Class-Bot/student01S)
+- Singapore Primary Math Syllabus Dataset
+  - [GitHub Repo](https://github.com/davidzbot/singapore-primary-math-syllabus)
 
 ### Upcoming Hackathons
 
